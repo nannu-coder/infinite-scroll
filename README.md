@@ -2,4 +2,4 @@
 
 ### Lets See
 
-![React Infinite Scoll](https://i.postimg.cc/rpDjj8dn/infinite-scroll.gif)
+![infinite scroll](https://i.postimg.cc/rpDjj8dn/infinite-scroll.gif)
